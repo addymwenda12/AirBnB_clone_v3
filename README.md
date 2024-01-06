@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Addy Mutuiri - [Github](https://github.com/addymwenda12) / [Instagram](https://twitter.com/beingaddy_)  
+Addy Mutuiri - [Github](https://github.com/addymwenda12) / [Instagram](https://instagram.com/beingaddy_)  
 
 
 ## License
